@@ -32,6 +32,9 @@ msgstr "Permissões de Usuários"
 msgid  "Permissions"
 msgstr "Permissões"
 
+msgid  "Action"
+msgstr "Actions"
+
 msgid "Actions"
 msgstr "Ações"
 
@@ -94,6 +97,9 @@ msgstr "Grupo não cadastrado no sistema de ACL"
 
 msgid "The ACO node is probably missing. Please try to rebuild the ACOs first."
 msgstr "Uma ações está faltando. Reconstrua a lista de ações."
+
+msgid  "There is no ACO node to delete"
+msgstr "Não há nó ACO para deletar"
 
 msgid "Manage user specific rights"
 msgstr "Controle as permissões do usuário"

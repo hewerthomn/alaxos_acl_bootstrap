@@ -57,7 +57,7 @@ foreach($roles as $role)
     	
     	$column_count = 1;
     	
-    	$headers = array(__d('acl', 'action'));
+    	$headers = array(__d('acl', 'Action'));
     	
     	foreach($roles as $role)
     	{
