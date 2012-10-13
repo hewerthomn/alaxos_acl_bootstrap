@@ -28,7 +28,12 @@ class ArosController extends AclAppController
 	}
     
 	function admin_index() {
-        $this->redirect(array('action'=>'users'));
+        if(Configure :: read('acl.gui.roles_permissions.ajax') === true)
+        {   
+            $this->redirect(array('action'=>'admin_ajax_role_permissions'));
+        } else {
+            $this->redirect(array('action'=>'admin_role_permissions'));
+        }
 	}
 	
 	function admin_check($run = null)
