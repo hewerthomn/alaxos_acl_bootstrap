@@ -1,11 +1,11 @@
 Plugin ACL - CakePHP - Lista de Controle de Acesso
 ==================================================
 
-Versão: 2.1.0
-Data:    04/02/2012
-Autor:   Nicolas Rod <nico@alaxos.com>
-Website: http://www.alaxos.net/blaxos/pages/view/plugin_acl
-License: http://www.opensource.org/licenses/mit-license.php The MIT License
+- Versão: 2.1.0
+- Data:    04/02/2012
+- Autor:   Nicolas Rod <nico@alaxos.com>
+- Website: http://www.alaxos.net/blaxos/pages/view/plugin_acl
+- License: http://www.opensource.org/licenses/mit-license.php The MIT License
 
 Esse plugin CakePHP é uma interface para gerenciar uma aplicação protegida com ACL.
 
@@ -49,11 +49,11 @@ Instalação
 ACL Plugin for CakePHP 2.0
 ===========================
 
-Version: 2.1.0
-Date: 2012-02-04
-Author: Nicolas Rod <nico@alaxos.com>
-Website: http://www.alaxos.net/blaxos/pages/view/plugin_acl
-License: http://www.opensource.org/licenses/mit-license.php The MIT License
+- Version: 2.1.0
+- Date: 2012-02-04
+- Author: Nicolas Rod <nico@alaxos.com>
+- Website: http://www.alaxos.net/blaxos/pages/view/plugin_acl
+- License: http://www.opensource.org/licenses/mit-license.php The MIT License
 
 This CakePHP plugin is an interface to manage an ACL protected web application.
 
