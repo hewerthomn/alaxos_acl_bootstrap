@@ -45,7 +45,7 @@ Instalação
 
 Screenshot
 ----------
-![Permissões de Grupos](Screenshots/Acl2.png "Permissões de Grupos")
+![Permissões de Grupos](alaxos_acl_bootstrap/Screenshots/Acl2.png "Permissões de Grupos")
 
 
 
