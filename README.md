@@ -43,6 +43,9 @@ Instalação
 
 - Acesse o plugin navegando até /admin/acl
 
+Screenshot
+----------
+![Permissões de Grupos](/Screenshots/Acl2.png "Permissões de Grupos")
 
 
 
