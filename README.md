@@ -45,7 +45,7 @@ Instalação
 
 Screenshot
 ----------
-![Permissões de Grupos](https://github.com/hewerthomn/alaxos_acl_bootstrap/blob/master/Screenshots/Acl2.png "Permissões de Grupos")
+![Permissões de Grupos](https://raw.github.com/hewerthomn/alaxos_acl_bootstrap/master/Screenshots/Acl2.png "Permissões de Grupos")
 
 
 
