@@ -39,7 +39,7 @@ Instalação
 
     2. Carregue o bootstrap do plugin (adicione no final do seu arquivo app/Config/bootstrap.php):
 
-        CakePlugin::load('Acl', array('bootstrap' => true));
+            CakePlugin::load('Acl', array('bootstrap' => true));
 
 - Acesse o plugin navegando até /admin/acl
 
